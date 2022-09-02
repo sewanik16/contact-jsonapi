@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "name": "Nikhil Rathod",
+      "email": "devsotnik@gmail.com",
+      "mobile": "8308741038",
+      "company": "Tesla and Devsot",
+      "profession": "Scientist",
+      "groupid": "1",
+      "id": 1
+    },
+    {
+      "name": "Bill Gate",
+      "email": "bill@gate.com",
+      "mobile": "898898898",
+      "company": "Microsoft",
+      "profession": "Director",
+      "groupid": "3",
+      "id": 3
+    },
+    {
+      "name": "Akash rathod",
+      "email": "akashvrathod09@gmail.com",
+      "mobile": "646",
+      "company": "ww",
+      "profession": "ww",
+      "groupid": "2",
+      "id": 5
+    },
+    {
+      "name": "Elon Musk",
+      "email": "elon.musk@gmail.com",
+      "mobile": "56665655",
+      "company": "SpaceX",
+      "profession": "Scientist",
+      "groupid": "4",
+      "id": 6
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "groupname": "family"
+    },
+    {
+      "id": "2",
+      "groupname": "Friend"
+    },
+    {
+      "id": "3",
+      "groupname": "Social"
+    },
+    {
+      "id": "4",
+      "groupname": "Service"
+    }
+  ]
+}
